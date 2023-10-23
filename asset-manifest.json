@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/serverless-meetup-app/static/css/main.073c9b0a.css",
-    "main.js": "/serverless-meetup-app/static/js/main.8d5afba3.js",
+    "main.js": "/serverless-meetup-app/static/js/main.6d232539.js",
     "static/js/787.ea94c473.chunk.js": "/serverless-meetup-app/static/js/787.ea94c473.chunk.js",
     "service-worker.js": "/serverless-meetup-app/service-worker.js",
-    "static/media/logo.svg": "/serverless-meetup-app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/Meetup-logo.png": "/serverless-meetup-app/static/media/Meetup-logo.1887ebe263cc1ec97ec6.png",
     "index.html": "/serverless-meetup-app/index.html",
     "main.073c9b0a.css.map": "/serverless-meetup-app/static/css/main.073c9b0a.css.map",
-    "main.8d5afba3.js.map": "/serverless-meetup-app/static/js/main.8d5afba3.js.map",
+    "main.6d232539.js.map": "/serverless-meetup-app/static/js/main.6d232539.js.map",
     "787.ea94c473.chunk.js.map": "/serverless-meetup-app/static/js/787.ea94c473.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8d5afba3.js"
+    "static/js/main.6d232539.js"
   ]
 }
